@@ -1,0 +1,8 @@
+/.vscode
+/node_modules
+./dist  
+# distributin = dist 
+#jo bhi is file me diye hai isme prittier use nhi hoga 
+*.env
+.env 
+.env.*
